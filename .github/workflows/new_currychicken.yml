@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'currychicken'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_420F749C2629474694C8D71F7CA13EA2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9CB86A3EDCD4FE5B180771CB2B345DE }}
           package: .
